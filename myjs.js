@@ -1,4 +1,4 @@
-alert("width:"+window.innerWidth+ "height:"+ window.innnerHeight);
+
 
 window.addEventListener('load',function(){
     //let slider = document.getElementById('slider');
