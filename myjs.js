@@ -1,3 +1,5 @@
+alert("width:"+window.innerWidth+ "height:"+ window.innnerHeight);
+
 window.addEventListener('load',function(){
     //let slider = document.getElementById('slider');
     //slider.style.height  = window.innerHeight/1.5+"px";
