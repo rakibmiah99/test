@@ -445,9 +445,9 @@
  }
 
  @media only screen and (max-width:768px){
-    bofdy{
-      background-color: red;
-    }
+     #menu-area{
+      left: 0;   
+     }
      .visible{display: block;}
      .col-s-0{display: none;}
      .col-s-1{width: 8.33%}
